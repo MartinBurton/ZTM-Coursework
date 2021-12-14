@@ -1,0 +1,55 @@
+/*
+All CSS elements are Syntacticaly formated as follows.
+
+Selector {
+    Property: Value;
+}
+
+*/
+body {
+    background-image: url(backgroundImage.jpg);
+    background-size: cover;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    color: rgb(42,98,119);
+    text-align: center;
+    border: 5px solid rgba(82, 43, 0, 0.8);
+    font-family: 'Poiret One';
+    color: white;
+    line-height: 20px;
+}
+
+img {
+    float: left;
+}
+
+nav {
+    text-align: right;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext {
+    border: 5px dashed rgba(189,152,61,0.8);
+}
+
+.active {
+    color: red;
+}
+
+#div1 {
+    background-color: rgba(42,98,119,0.2); 
+}
+
+#div2 {
+    background-color: rgba(53,65,129,0.2);
+}
+
