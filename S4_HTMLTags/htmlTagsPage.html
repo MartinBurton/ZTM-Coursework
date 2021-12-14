@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Tags</title>
+</head>
+<body>
+    <!-- Headings have a built in <br> tag -->
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+
+    <!-- <p> Tags create paragphs with a space between it and the 
+         next piece of content. Includes a <br> tag 
+    -->
+    <p>This is a paragraph</p>
+    <p>This is another paragraph</p>
+
+    <!-- <strong> tags are used to make text bold inline -->
+    The following word is <strong>BOLD</strong><br>
+
+    <!-- <em> tags are used to italicise text or emphasise text -->
+    <em>This is in italics</em><br>
+    
+    <!-- <br> Tags create a new line, just like a cariage return -->
+    <br>
+
+    <!-- <a> Tags create a link to another HTML file -->
+    <a href="secondPage.html">This is a link</a>
+    <br>
+
+    <!-- <img> Tags place an image on the page
+            ATRIBUTES:
+                src - Path to the desired image
+                width - Sets the width of the image
+                height - Sets the height of the image
+                alt - text/img to be used if the main src is not available
+    -->
+    <img src="https://mymodernmet.com/wp/wp-content/uploads/2020/08/smiley-face-history-0.jpg" alt="Smiley Face" width="200" Height="115">
+    <br>
+
+    <!-- Forms: Used to capture data 
+            ATRIBUTES
+                method - GET (appends form data as a query on end of URL)
+                         POST (does not append form data to URL)
+                         dialog (Unkonwn at this time)   
+    -->
+    <form method="POST">
+        <!-- Simple text capture, name is the field that will be populated with the data -->
+        First Name <input type="text" name="firstname"><br> 
+
+        <!-- Password type, hides the contents of the box on screen -->
+        Password <input type="password" name="password"><br>
+
+        <!-- Email type, validates data is of type password -->
+        Email <input type="email" name="password"><br>
+
+        <!-- Date type, provides a simple date picker -->
+        Date <input type="date" name="date"><br>
+
+        <!-- Radio type, needs to use name attribute to group them passes value as data -->
+        Select One: <br>
+            <input type="radio" name="selectRadio" value="item1">Item 1<br>
+            <input type="radio" name="selectRadio" value="item2">Item 2<br>
+
+        <!-- Checkbox type, a toggleable box, returns on or off as value -->
+        Select as appropriate: <br>
+            <input type="checkbox" name="check1">Check 1<br>
+            <input type="checkbox" name="check2">Check 2<br>
+
+        <!-- Multi-Choice dropdowns, use <select> tag and <option> tags. 
+             Field is defined in the <select> tag and data from <option> tag
+             <optgroup> tag alows the grouping of options with a slight indent
+        -->
+        <select name="multiOptoin">
+            <option value="option1">Option 1</option>
+            <option value="option2">Option 2</option>
+            <option value="option3">Option 3</option>
+            <optgroup>
+                <option value="option41">Option Group 1</option>
+                <option value="option42">Option Group 2</option>
+            </optgroup>
+        </select><br>
+
+
+        <!-- Submit type, creates a button that submits the form. The text can be changed with the value atribute -->
+        <input type="submit" value="Push to send all your data">
+        
+        <!-- Reset type, clears the form. The text can be changed with the value atribute -->
+        <input type="reset" value="Push to remove your existance">
+    </form>
+
+    <!-- <div> tag allows for splitting of regions of the page. Using CSS they can be styled differently. -->
+    <div>This is in a div</div>
+
+    <!-- <span> tags are inline <div> tags. -->
+    This text <span>has a span</span> in the middle
+
+</body>
+</html>
