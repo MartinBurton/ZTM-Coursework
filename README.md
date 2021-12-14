@@ -1,6 +1,13 @@
 # ZTM-Coursework
-Repo for all exercises on the ZTM: Full stack dev course
+Repository for all course work and materials compliled whilst completing the [The Complete Web Developer in 2022: Zero to Mastery](https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery) course.
+I have, where appropriate, grouped sections together. This is due to continuation of development of projects from section to section.
+
+## Sections 1 to 3
+These sections are more theory based and as such do not require completion of practical exercises. These sections cover introduction to the course, explination of how the internet works and the history of the web. 
 
 ## Section 4 & 5 HTML
-- [My FIrst Website](https://martinburton.github.io/ZTM-Coursework/S4_FirstWebsite/index.html)
-- [HTML Tags summary page](https://martinburton.github.io/ZTM-Coursework/S4_HTMLTags/htmlTagsPage.html)
+- [My FIrst Website](https://martinburton.github.io/ZTM-Coursework/S4_FirstWebsite/index.html)  ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/S4_FirstWebsite))
+- [HTML Tags summary page](https://martinburton.github.io/ZTM-Coursework/S4_HTMLTags/htmlTagsPage.html) ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/S4_HTMLTags))
+
+## Section 6 & 7 CSS
+- [Code along pages](https://martinburton.github.io/ZTM-Coursework/S6_CSS/index.html) ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/S6_CSS))
