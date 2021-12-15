@@ -5,7 +5,17 @@ Selector {
     Property: Value;
 }
 
+.class
+#id                 
+*                   - all elements
+element             - all elements of this type
+element1 element2   - all element2's inside element1
+element1, element2  - both elements are selected as if individualy
+element1 + element2 - all element2's that are imediatly after element1's
+element1 > element2 - all element2's that are children of element1's
+
 */
+
 body {
     background-image: url(backgroundImage.jpg);
     background-size: cover;
@@ -53,3 +63,7 @@ li {
     background-color: rgba(53,65,129,0.2);
 }
 
+footer > p {
+    color: white;
+    border: none;
+}
