@@ -12,4 +12,5 @@ These sections are more theory based and as such do not require completion of pr
 ## Section 6 & 7 CSS
 - [Code along pages](https://martinburton.github.io/ZTM-Coursework/S6_CSS/index.html) ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/S6_CSS))
 - [Flexbox Image Portfolio](https://martinburton.github.io/ZTM-Coursework/S7_ImagePortfolio/index.html) ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/S7_ImagePortfolio))
+- [CSS Robot Friend Solution](https://martinburton.github.io/ZTM-Coursework/S7_RobotFriend/Solution/index.html) ([Source](https://github.com/Martinburton/ZTM-Coursework/tree/main/S7_RobotFriend/Solution))
 
