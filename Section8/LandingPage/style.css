@@ -10,8 +10,14 @@ body, html {
 }
 
 h1 {
+    
     font-size: 3rem;
     color: #e2dbdb;
+}
+
+h2 {
+    color: #e2dbdb;
+    font-size: 2rem;
 }
 
 .buffer {
@@ -27,9 +33,16 @@ h1 {
 .btn-primary {
     background-color: #F05F44;
     border-color: #F05F44;
+    transition: all 1s;
 }
 
 .btn-primary:hover {
+    background-color: #EE4B08;
+    border-color: #EE4B08;
+    transform: scale(1.1, 1.1);
+}
+
+.btn-primary:focus {
     background-color: #EE4B08;
     border-color: #EE4B08;
 }
