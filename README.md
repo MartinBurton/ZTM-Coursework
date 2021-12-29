@@ -16,4 +16,5 @@ These sections are more theory based and as such do not require completion of pr
 
 ## Section 8: Bootstrap and Templates
 - [Landing Page](https://martinburton.github.io/ZTM-Coursework/Section8/LandingPage/index.html) ([Source](https://github.com/Martinburton/ZTM-Coursework/tree/main/Section8/LandingPage))
+- [Portfolio](https://martinburton.github.io/ZTM-Coursework/Section8/PortfolioPage/index.html) ([Source](https://github.com/Martinburton/ZTM-Coursework/tree/main/Section8/PortfolioPage))
 
