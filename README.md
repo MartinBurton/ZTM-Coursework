@@ -18,3 +18,7 @@ These sections are more theory based and as such do not require completion of pr
 - [Landing Page](https://martinburton.github.io/ZTM-Coursework/Section8/LandingPage/index.html) ([Source](https://github.com/Martinburton/ZTM-Coursework/tree/main/Section8/LandingPage))
 - [Portfolio](https://martinburton.github.io/ZTM-Coursework/Section8/PortfolioPage/index.html) ([Source](https://github.com/Martinburton/ZTM-Coursework/tree/main/Section8/PortfolioPage))
 
+## Sectoin 9: CSS Grid
+- [Grid code along](https://martinburton.github.io/ZTM-Coursework/Section9/Grid/index.html) ([Source](https://github.com/Martinburton/ZTM-Coursework/tree/main/Section9/Grid))
+- [Page Layout Exercise](https://martinburton.github.io/ZTM-Coursework/Section9/LayoutExercise/index.html) ([Source](https://github.com/Martinburton/ZTM-Coursework/tree/main/Section9/LayoutExercise))
+
