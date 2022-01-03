@@ -22,3 +22,6 @@ These sections are more theory based and as such do not require completion of pr
 - [Grid code along](https://martinburton.github.io/ZTM-Coursework/Section9/Grid/index.html) ([Source](https://github.com/Martinburton/ZTM-Coursework/tree/main/Section9/Grid))
 - [Page Layout Exercise](https://martinburton.github.io/ZTM-Coursework/Section9/LayoutExercise/index.html) ([Source](https://github.com/Martinburton/ZTM-Coursework/tree/main/Section9/LayoutExercise))
 
+## Section 10: Career of a Web Developer
+- This section talks about what to expect as a developer. It details statistics for languages/technologies and editors used in today's web development environment. As part of this section I updated my LinkedIn profile to include Z2M as an education provider. [LinkedIn Profile](https://www.linkedin.com/in/martin-burton-2a4336185/)
+
