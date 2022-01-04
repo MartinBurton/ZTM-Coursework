@@ -25,3 +25,8 @@ These sections are more theory based and as such do not require completion of pr
 ## Section 10: Career of a Web Developer
 - This section talks about what to expect as a developer. It details statistics for languages/technologies and editors used in today's web development environment. As part of this section I updated my LinkedIn profile to include Z2M as an education provider. [LinkedIn Profile](https://www.linkedin.com/in/martin-burton-2a4336185/)
 
+## Section 11: JavaScript
+- [Section Outline](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/SectionOutline.md)
+- [Exercise 1](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/exercise1.md)
+- [Exercise 2](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/exercise2.md)
+- [Exercise 3](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/Calculator/exercise3.md)
