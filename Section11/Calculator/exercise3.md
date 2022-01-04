@@ -9,7 +9,8 @@ Make a Calculator! using prompt(), and variables, make a program that does the f
 **BONUS:** Make a program that can subtract, multiply, and also divide!
 
 ## Solution
-``` var firstNumber = prompt("Please enter the first number"); 
+``` 
+var firstNumber = prompt("Please enter the first number"); 
 var operator = prompt("Which operation would you like to perform? (+, -, /, *)");
 var secondNumber = prompt("Please enter the second number");
 switch (operator) {
@@ -36,4 +37,5 @@ switch (operator) {
     default:
         alert("I am sorry there was an error.  Please try again.");
         break;
-} ```
+} 
+```
