@@ -32,4 +32,4 @@ Guess what answers you would get if you ran this in the Javascript Console in Go
 
 
 ## Make the string: "Hi There! It's "sunny" out" by using the + sign:
-- "Hi There! " + "It\'s \"sunny\" out" *--> Correct* 
+- "Hi There! " + "It\\'s \\"sunny\\" out" *--> Correct* 
