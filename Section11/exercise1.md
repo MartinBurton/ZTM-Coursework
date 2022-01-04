@@ -18,7 +18,7 @@ check them by copying them and running it in the console yourself line by line
 - false + true --> 1 --> Correct 
 - false - true --> -1 --> Correct 
 - 3 - 4  --> -1 --> Correct 
--- "Bob" - "bill"  --> Error? --> **Inorrect (Answer is NaN, tries to convert strings into numbers)**
+-- "Bob" - "bill"  --> Error? --> **Incorrect (Answer is NaN, tries to convert strings into numbers)**
 
 
 ## Evaluate the below comparisons:
@@ -28,7 +28,7 @@ check them by copying them and running it in the console yourself line by line
 - 1 !== 1  --> false --> Correct 
 - "A" > "B" --> false --> Correct 
 - "B" < "C" --> true --> Correct 
-- "a" > "A" --> false  --> **Inorrect (Answer is true, lowercase letters are higher char value than upercase)**
+- "a" > "A" --> false  --> **Incorrect (Answer is true, lowercase letters are higher char value than upercase)**
 - "b" < "A" --> false --> Correct 
 - true === false --> false --> Correct 
 - true !== true --> false --> Correct 
