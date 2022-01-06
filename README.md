@@ -27,8 +27,9 @@ These sections are more theory based and as such do not require completion of pr
 
 ## Section 11: JavaScript
 - [Section Outline](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/SectionOutline.md)
-- [Exercise 1](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/exercise1.md)
-- [Exercise 2](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/exercise2.md)
-- [Exercise 3](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/Calculator/exercise3.md)
-- [Exercise 4](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/KeylessCar/exercise4.md)
-- [Exercise 5](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/KeylessCar2/exercise5.md)
+- [Exercise 1](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/exercise1.md) - Types, Operators and Evaluations
+- [Exercise 2](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/exercise2.md) - Variables
+- [Exercise 3](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/Calculator/exercise3.md) - Calculator
+- [Exercise 4](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/KeylessCar/exercise4.md) - Keyless Car
+- [Exercise 5](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/KeylessCar2/exercise5.md) - Keyless Car 2
+- [Exercise 6](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/Arrays/exercise6.md) - Arrays
