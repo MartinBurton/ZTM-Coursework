@@ -33,3 +33,4 @@ These sections are more theory based and as such do not require completion of pr
 - [Exercise 4](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/KeylessCar/exercise4.md) - Keyless Car
 - [Exercise 5](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/KeylessCar2/exercise5.md) - Keyless Car 2
 - [Exercise 6](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/Arrays/exercise6.md) - Arrays
+- [Exercise 7](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/Objects/exercise7.md) - Objects (Facebook App prep)
