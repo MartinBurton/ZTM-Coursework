@@ -9,33 +9,27 @@ Create an object and an array which we will use in our facebook exercise.
 
 ## Solution
 1. ```
-   var user1 = {
+   var user = {
        username: "Donny",
-       pasword: "123",
-   }
-
-   var user2 = {
-       username: "Betty",
-       password: "abc"
-   }
+       pasword: "123",    
     ```
 
 2. ``` 
-   var database = [user1, user2]; 
+   var database = [user]; 
    ```
 
 3. ```
    var newsfeed = [
        {
-           username: user1.username,
+           username: "Sally",
            timeline: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex odio commodi facilis voluptatem. Labore, eius magnam praesentium tenetur harum alias odio quidem, nostrum reprehenderit, similique nemo ipsa distinctio illum in."
        },
        {
-           username: user2.username,
+           username: "Bobby",
            timeline: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex odio commodi facilis voluptatem. Labore, eius magnam praesentium tenetur harum alias odio quidem, nostrum reprehenderit, similique nemo ipsa distinctio illum in."
        },
        {
-           username: user1.username,
+           username: "Donny",
            timelime: "Another Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex odio commodi facilis voluptatem. Labore, eius magnam praesentium tenetur harum alias odio quidem, nostrum reprehenderit, similique nemo ipsa distinctio illum in."
        }
    ];
