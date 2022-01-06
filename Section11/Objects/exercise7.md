@@ -20,7 +20,9 @@ Create an object and an array which we will use in our facebook exercise.
    }
     ```
 
-2. `var database = [user1, user2];`
+2. ``` 
+   var database = [user1, user2]; 
+   ```
 
 3. ```
    var newsfeed = [
