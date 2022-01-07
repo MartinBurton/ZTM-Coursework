@@ -11,7 +11,8 @@ Create an object and an array which we will use in our facebook exercise.
 1. ```
    var user = {
        username: "Donny",
-       pasword: "123",    
+       pasword: "123"
+   }    
     ```
 
 2. ``` 
