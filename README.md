@@ -38,4 +38,4 @@ These sections are more theory based and as such do not require completion of pr
 
 ## Section 12: Dom Manipulation
 - [Shopping List](https://martinburton.github.io/ZTM-Coursework/Section12/ShoppingList/index.html) - Exercises Completed ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section12/ShoppingList))
-- [Background Generator](https://martinburton.github.io/ZTM-Coursework/Section12/BackgroundGen/index.html) - with additions ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section12/Background Gen))
+- [Background Generator](https://martinburton.github.io/ZTM-Coursework/Section12/BackgroundGen/index.html) - with additions ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section12/BackgroundGen))
