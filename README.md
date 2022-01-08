@@ -35,3 +35,6 @@ These sections are more theory based and as such do not require completion of pr
 - [Exercise 6](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/Arrays/exercise6.md) - Arrays
 - [Exercise 7](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/Objects/exercise7.md) - Objects (Facebook App prep)
 - [Final Project](https://martinburton.github.io/ZTM-Coursework/Section11/FacebookApp/index.html) - Facebook App ([Source](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section11/FacebookApp/))
+
+## Section 12: Dom Manipulation
+- [Shopping List](https://martinburton.github.io/ZTM-Coursework/Section12/ShoppingList/index.html) - Exercises Completed ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section12/ShoppingList))
