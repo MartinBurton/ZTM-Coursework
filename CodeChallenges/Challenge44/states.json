@@ -1,0 +1,48 @@
+{
+    "States" : [
+        {
+            "title": "Welcome to this simple game",
+            "text": "This is the start of a beautifull adventure, filled with intregue and deception.  Only enter if you feel you are ready for the journey of a lifetime.",
+            "choices": [
+                {
+                    "text": "Start the adventure",
+                    "nextState": 1
+                }
+            ]
+        },
+        {
+            "title": "State 1",
+            "text": "From here you can go to one of two more states",
+            "choices": [
+                {
+                    "text": "Go to state 2",
+                    "nextState": 2 
+                },
+                {
+                    "text": "Go to state 3",
+                    "nextState": 3
+                }
+            ]
+        },
+        {
+            "title": "State 2",
+            "text": "From here you can go to one of one state",
+            "choices":[
+                {
+                    "text": "Go to state 1",
+                    "nextState": 1
+                }
+            ]
+        },
+        {
+            "title": "State 3",
+            "text": "From here you can go to one of one state",
+            "choices":[
+                {
+                    "text": "Go to state 1",
+                    "nextState": 1
+                }
+            ]
+        }
+    ]
+}
