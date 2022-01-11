@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+    cursor: default;
+}
+
+body {
+   /* width: 100%; */
+    font-family: fantasy, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+hr {
+    max-width: 800px;
+}
+
+.container {
+    /* max-width: 1000px; */
+    margin: 10px 25vw 10px 25vh;
+}
+
+.gameContent {
+    max-width: 1000px;
+    /* margin: 10px 25vw 10px 25vh; */
+}
+
+#roomTitle {
+    font-size: 2em;
+    text-align: center;
+}
+
+ul {
+    list-style: square;
+}
+
+li:hover {
+    cursor: pointer;
+}
