@@ -53,21 +53,21 @@ const choiceList = document.getElementById("choices");
 // Game variables and constants
 let currentState = 0;
 
-const moveState = (event) => {
+const moveState = event => {
     currentState = event.target.attributes[0].nodeValue;
     updatePage(currentState);
 }
 
-const createChoice = (choice) => {
+const createChoice = choice => {
     // Not caching the li elements as they will change with each update
     let newChoice = document.createElement("li");
     newChoice.appendChild(document.createTextNode(choice.text));
-    newChoice.setAttribute("value", choice.nextState);
+    newChoice.setAttribute("nextState", choice.nextState);
     newChoice.addEventListener("click", moveState);
     choiceList.appendChild(newChoice);
 }
 
-const updatePage = (state) => {
+const updatePage = state => {
     roomTitle.textContent = stateData[state].title;
     roomText.textContent = stateData[state].text;
     let choiceItems = document.querySelectorAll("li");
