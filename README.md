@@ -39,3 +39,19 @@ These sections are more theory based and as such do not require completion of pr
 ## Section 12: Dom Manipulation
 - [Shopping List](https://martinburton.github.io/ZTM-Coursework/Section12/ShoppingList/index.html) - Exercises Completed ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section12/ShoppingList))
 - [Background Generator](https://martinburton.github.io/ZTM-Coursework/Section12/BackgroundGen/index.html) - with additions ([Source](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section12/BackgroundGen))
+
+## Section 13: Advanced Javascript
+- This section has a number of exercises, which do not lend themselves to presentation on a web page.  Therefore only the source files are presented here.  In each section my solutions follow the questions.
+- [Exercise 1](): Scope
+- [Exercise 2](): Advanced Control Flow
+- [Ecercise 3](): ES5 and ES6
+- [Exercise 4](): Advanced Functions
+- [Exercise 5](): Advanced Arrays
+- [Exercise 6](): Advanced Objects
+- [Exercise 7](): ES7
+- [Exercise 8](): ES8
+- [Exercise 9](): ES10
+- [Exercise 10](): Advanced Loops
+- [Exercise 11](): ES2020
+- [Exercise 12](): Imposter Syndrome
+- [Exercise 13](): Javascript Logic
