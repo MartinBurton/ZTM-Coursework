@@ -55,3 +55,6 @@ These sections are more theory based and as such do not require completion of pr
 - [Exercise 11](): ES2020
 - [Exercise 12](): Imposter Syndrome
 - [Exercise 13](): Javascript Logic
+
+## Section 14 to 17
+- These sections revolve around setting up the editor, bash and git so that it is ready for the next sections.
