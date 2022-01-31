@@ -58,3 +58,4 @@ These sections are more theory based and as such do not require completion of pr
 
 ## Section 14 to 17
 - These sections revolve around setting up the editor, bash and git so that it is ready for the next sections.
+- Also covers installation of npm and other packages.
