@@ -42,20 +42,24 @@ These sections are more theory based and as such do not require completion of pr
 
 ## Section 13: Advanced Javascript
 - This section has a number of exercises, which do not lend themselves to presentation on a web page.  Therefore only the source files are presented here.  In each section my solutions follow the questions.
-- [Exercise 1](): Scope
-- [Exercise 2](): Advanced Control Flow
-- [Ecercise 3](): ES5 and ES6
-- [Exercise 4](): Advanced Functions
-- [Exercise 5](): Advanced Arrays
-- [Exercise 6](): Advanced Objects
-- [Exercise 7](): ES7
-- [Exercise 8](): ES8
-- [Exercise 9](): ES10
-- [Exercise 10](): Advanced Loops
-- [Exercise 11](): ES2020
-- [Exercise 12](): Imposter Syndrome
-- [Exercise 13](): Javascript Logic
+- [Exercise 1](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/exercise1.js): Scope
+- [Exercise 2](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/exercise2.js): Advanced Control Flow
+- [Ecercise 3](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/exercise3.js): ES5 and ES6
+- [Exercise 4](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/exercise4.js): Advanced Functions
+- [Exercise 5](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/exercise5.js): Advanced Arrays
+- [Exercise 6](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/exercise6.js): Advanced Objects
+- [Exercise 7](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/exerciseES7.js): ES7
+- [Exercise 8](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/exerciseES8.js): ES8
+- [Exercise 9](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/ES10-Exercise.js): ES10
+- [Exercise 10](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/advanced-looping-exercise.js): Advanced Loops
+- [Exercise 11](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/es2020.js): ES2020
+- [Exercise 12](http://martin-burton.com): Imposter Syndrome ([Source](https://github.com/MartinBurton/My_Portfoli))
+- [Exercise 13](https://github.com/MartinBurton/ZTM-Coursework/tree/main/Section13/JavascriptLogic.js): Javascript Logic
 
-## Section 14 to 17
+## Section 14 to 18
 - These sections revolve around setting up the editor, bash and git so that it is ready for the next sections.
 - Also covers installation of npm and other packages.
+
+## Section 19: React
+- *This section once covered Hooks and Redux, however thes topics have since been moved to a later section*
+- **RoboFriends Project** - [Deployment](https://martinburton.github.io/Robofriends/) - [Source](https://github.com/MartinBurton/Robofriends)
