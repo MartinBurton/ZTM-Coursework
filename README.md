@@ -65,4 +65,4 @@ These sections are more theory based and as such do not require completion of pr
 - **RoboFriends Project** - [Deployment](https://martinburton.github.io/Robofriends/) - [Source](https://github.com/MartinBurton/Robofriends)
 
 ## Section 20: HTTP/JSON/AJAX + Asynchronous Javascript
-- [Exercise 1](https://github.com/MartinBurton/ZTM-Courseworl/tree/main/Section20/exercisePromises.js): Promises
+- [Exercise 1](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section20/exercisePromises.js): Promises
