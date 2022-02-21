@@ -66,3 +66,7 @@ These sections are more theory based and as such do not require completion of pr
 
 ## Section 20: HTTP/JSON/AJAX + Asynchronous Javascript
 - [Exercise 1](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section20/exercisePromises.js): Promises
+- [Exercise 2](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section20/exerciseAsyncAwait.js): Async/Await
+- [ES9 Features](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section20/ES9.js): Object Spread Operator, .finally(), for await loop
+- [ES2020 Features](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section20/es2020.js): Promise.allSettled()
+- [ES2021 Features](https://github.com/MartinBurton/ZTM-Coursework/blob/main/Section20/ES2021.js): Promise.any()
