@@ -14,6 +14,6 @@ const promiseTwo = new Promise((resolve, reject) =>
 // so our code can continue to execute.
 Promise.all([promiseOne, promiseTwo]).then(data => console.log(data));
 
-// New for ES2020 the .allSettled statement returns the promises irispective
+// New for ES2020 the .allSettled statement returns the promises irespective
 // of the result of the promises.
 Promise.allSettled([promiseOne, promiseTwo]).then(data => console.log(data));
